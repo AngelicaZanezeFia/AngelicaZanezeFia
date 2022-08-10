@@ -1,26 +1,22 @@
-# Angélica Zaneze Fia 
+# *Olá, eu sou a Angélica* 👋 
 
-<div>
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
-          
+
+<div>      
 <a href = "mailto:angelicazanezefia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/angélica-zaneze-fia" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>   
+<a href="https://www.linkedin.com/in/angélica-zaneze-fia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-### Bem vindo ao meu perfil GitHub :blush:
 
-<!--
-**AngelicaZanezeFia/AngelicaZanezeFia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem vindo ao meu perfil GitHub :blush:
 
-Here are some ideas to get you started:
+- 🔭 Sou doutoranda em Física pelo Instituto Tecnológico de Aeronáutica (ITA), onde pesquiso sobre a interação da radiação eletromagnética (na região de micro-ondas) com biomassas (bagaço de cana-de-açúcar, óleo de palma, algas verdes, madeira e casca de laranja) para a produção de biocombustíveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Tenho estudado Python e SQL com foco em análise de dados.
+          
+          
+       
+### 🖥️ Tecnologias e Ferramentas: 
+- COMSOL
+- Fortran 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" width="40" height="40"/>
+          
