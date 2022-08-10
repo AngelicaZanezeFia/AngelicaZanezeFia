@@ -1,4 +1,5 @@
-### Hi there 👋
+# Olá 👋, meu nome é Angélica!
+### Bem vindo ao meu perfil GitHub :blush:
 
 <!--
 **AngelicaZanezeFia/AngelicaZanezeFia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
