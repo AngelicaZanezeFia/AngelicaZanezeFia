@@ -9,13 +9,14 @@
 
 ## Bem vindo ao meu perfil GitHub :blush:
 
-- 🔭 Sou doutoranda em Física pelo Instituto Tecnológico de Aeronáutica (ITA), onde pesquiso sobre a interação da radiação eletromagnética (na região de micro-ondas) com biomassas (bagaço de cana-de-açúcar, óleo de palma, algas verdes, madeira e casca de laranja) para a produção de biocombustíveis.
+- 🔭 Sou Doutora em Física pelo Instituto Tecnológico de Aeronáutica (ITA) (2018-2023), Mestre em Física também pelo ITA (2016-2018) e graduação em Licenciatura em Física pela Universidade Federal do Espírito Santo (UFES) (2011-2015). Atualmente, atuo como Analista de Risco de Mercado no Bradesco, em Osasco, São Paulo.
 
-- 📚 Tenho estudado Python e SQL com foco em análise de dados.
+- 📚 Tenho estudado Python com foco em análise de dados.
           
           
        
 ### 🖥️ Tecnologias e Ferramentas: 
+- Python
 - COMSOL
 - Fortran 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" width="40" height="40"/>
